@@ -5,6 +5,10 @@ The main objective is to identify two distinct classes: rest and muscle contract
 
 Recordings were made using gel electrodes and a custom EMG acquisition board at a sampling rate of 1000 Hz, transmitted in real time to a computer via ESP32 and MATLAB, and stored in CSV format. Each session lasted 65 seconds and followed a structured protocol where participants alternated between the two classes every few seconds. Most participants contributed two sessions with a 3.7 V supply.
 A reference figure illustrating electrode placement will be provided.
+<p align="center">
+  <img src="C:\Users\DELL\Documents\PFE_SARAH\Figure_Tableaux\Figure_MusclePectoral.png" width="400">
+</p>
+
 
 Each CSV file initially contains four columns: Sample - Time - FilteredV - Label
 
