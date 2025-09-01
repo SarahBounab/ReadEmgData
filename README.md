@@ -20,5 +20,10 @@ Arduino ide ESP32 code for real-time digital filtering of the EMG signals.
 MATLAB code for reading, visualizing, and storing the EMG data in CSV format.
 MATLAB code for labeling the data.
 
+
+Data link to download
+
+==> "https://doi.org/10.5281/zenodo.17024424"
+
 For more details, please feel free to contact us:
 Kharziwisseme@hotmail.com - malikakedir@gmail.com - nac.meziane@gmail.com - bounabsarah2001@gmail.com
